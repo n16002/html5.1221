@@ -1,0 +1,13 @@
+/*
+角丸
+
+
+*/
+
+div{
+	width: 200px;
+	height: 200px;
+	background: skyblue
+	url('sheep.jpg');
+	border-radius: 50%;
+}

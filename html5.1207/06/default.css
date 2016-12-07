@@ -1,0 +1,10 @@
+/*
+擬似クラス
+:first-child
+
+*/
+
+li:only-child
+{
+	background: violet;
+}

@@ -1,0 +1,10 @@
+/*
+擬似クラス
+
+
+*/
+
+input[ type="checkbox"]:checked + label
+{
+	background: violet;
+}
